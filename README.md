@@ -229,7 +229,6 @@ https://github.com/Talha-ali628
 If you find this project useful, consider giving the repository a star ⭐
 
 
-
 ## 🚀 Live Dashboard
 
-🔗 **[Open Netflix Content Visualization Dashboard](https://netflix-content-dashboard.streamlit.app)**
+🔗 **[Open Netflix Content Analytics Dashboard](https://netflix-content-analytics.streamlit.app/)**
